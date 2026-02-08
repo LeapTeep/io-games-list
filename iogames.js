@@ -1,0 +1,7 @@
+const GAMES_LIST = [
+  { name: "Blackjack", image: "https://www.247blackjack.com/images/how-to-play/blackjack-next-decision.png" },
+  { name: "1v1.lol", image: "https://imgs.crazygames.com/games/1v1-lol/cover-1585728351086.png?metadata=none&quality=60&height=5425" },
+  { name: "Mazean.io", image: "https://imgs.crazygames.com/mazean-com_16x9/20240805094407/mazean-com_16x9-cover?metadata=none&quality=60&height=4449" },
+  { name: "Vectaria.io", image: "https://cdn.webgamer.io/games/vectaria-io/vectaria-io.1280x.85pc.webp" },
+  { name: "Tribals.io", image: "https://ray-discovery.s3.eu-central-1.amazonaws.com/ray-portal-release-portal-v2/images/9_zB5pvj9RhcoZftSfbFcQ.webp" }
+];
